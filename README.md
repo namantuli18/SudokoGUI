@@ -12,7 +12,7 @@ The code when executed produces:
 
 *Every time an incorrect move is made,we display a red cross at the bottom corner of the screen*
 
-![reds](https://github.com/namantuli18/SudokoGUI/blob/master/Images/3.PNG)
+![reds](https://github.com/namantuli18/SudokoGUI/blob/master/3.PNG)
 
 
 
